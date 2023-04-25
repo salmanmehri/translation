@@ -72,7 +72,7 @@ path:
 
 Require the translation package 
 
-    composer require stevebauman/translation
+    composer require salmanmehri/translation
 
 Add the service provider to your `config/app.php` config file
 
